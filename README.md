@@ -22,14 +22,6 @@
 </p>
 
 
-### 🛤️ My Roadmap
-<p align="center">
-  <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/wide/67b8a67f98abd86c99f48255?variant=dark" alt="roadmap.sh"/>
-  </a>
-</p>
-
-
 ### 📬 Connect with Me
 <p align="center">
   <a href="mailto:d3v.zadiq@gmail.com">
